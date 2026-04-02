@@ -1,6 +1,5 @@
 # 💫 About Me:
-🚀 Muhammad Hammad Nawaz<br>CS Student @ ITU Lahore | Full-Stack Developer | Game Dev Enthusiast<br><br>🛠️ Technical Stack<br>Languages: C++, Python, C#, JavaScript, SQL, HTML/CSS, TypeScript<br><br>Frameworks: React, Node.js, Express<br><br>Tools & Engines: Unity, Git, Socket.io, .NET<br><br>📂 Featured Projects<br>ChitChat: Full-stack real-time chatting application.<br><br>Puff: Personalized Python-based AI assistant.<br><br>Stack Ball Clone: Physics-based arcade game built in Unity.<br><br>Web Apps: Weather App (API integration) & React-based To-Do App.<br><br>🎓 Education<br>BS Computer Science – Information Technology University (ITU)
-
+🚀 Muhammad Hammad Nawaz<br>CS Student @ ITU Lahore | Full-Stack Developer | Game Dev Enthusiast<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_hammadnawaz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hammadnawaz519) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hammadnawaz519) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@_hammadnawaz) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_hammadnawaz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hammadnawaz519@gmail.com) 
