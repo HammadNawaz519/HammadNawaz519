@@ -10,16 +10,17 @@
 <br>
 
 <!-- NAME / TAGLINE - animated typing SVG -->
-<a href="https://github.com/HammadNawaz519">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=880&lines=Hammad+Nawaz+-+Full-Stack+Engineer+%26+Systems+Architect;Building+High-Performance+Web+Apps+%26+Distributed+Systems;Next.js+14+%2B+TypeScript+%2B+WebSockets+%2B+PostgreSQL+%2B+Redis;Architecting+Zero-Compromise+Software+Products" alt="typing banner">
+<a href="https://hammadnawaz.vercel.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=880&lines=Hammad+Nawaz+%E2%80%94+Full-Stack+%26+Systems+Engineer;Next.js+%2B+TypeScript+%2B+WebSockets+%2B+PostgreSQL+%2B+Redis;Real-Time+Platforms+%7C+E-Commerce+%7C+x86+OS+Development;Lahore%2C+Pakistan+%E2%86%92+hammadnawaz.vercel.app" alt="typing banner">
 </a>
 
 <br>
 
 <!-- SOCIALS & LINKS -->
+<a href="https://hammadnawaz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hammadnawaz.vercel.app-aa9bef?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/hammadnawaz519"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 <a href="mailto:hammadnawaz519@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;&nbsp;
-<a href="https://myconnectapp.vercel.app"><img src="https://img.shields.io/badge/Live_App-Connect-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Connect App"></a>&nbsp;&nbsp;
+<a href="https://myconnectapp.vercel.app"><img src="https://img.shields.io/badge/Connect-Live_App-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Connect App"></a>&nbsp;&nbsp;
 <a href="https://github.com/HammadNawaz519"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br><br>
@@ -46,11 +47,12 @@
 
 ## This is me
 
-I'm **Hammad Nawaz**, a full-stack software engineer from Pakistan. I build web platforms, real-time systems, and low-level software. Most of what I ship is fast, minimal, and actually works under pressure.
+I'm **Hammad Nawaz**, a full-stack software engineer from Lahore, Pakistan. I build web platforms, real-time systems, and low-level software. My portfolio is at [hammadnawaz.vercel.app](https://hammadnawaz.vercel.app).
 
 - **[Connect](https://myconnectapp.vercel.app)** — real-time communication platform with WebRTC video/audio calling, Socket.IO messaging, multi-account support, voice notes with speech-to-text, and an Android APK release.
 - **[SHOPY Atelier](https://buyatshopy.vercel.app)** — a luxury fashion e-commerce store built with Next.js 14 App Router, Supabase PostgreSQL, Upstash Redis mutex locking (`SET NX EX`), and Google Sheets API v4 sync for live inventory management.
 - **[HammadOS](https://github.com/HammadNawaz519)** — a custom x86 operating system kernel written in C and Assembly. Memory management, interrupt handling, QEMU-tested.
+- **[Portfolio](https://hammadnawaz.vercel.app)** — built with Next.js, Spline 3D, GSAP, and Framer Motion. Includes a live contact form, experience timeline, and project showcase.
 
 I don't like slow software. I don't like software that breaks. Most of what I build is an attempt to fix both.
 
@@ -146,11 +148,11 @@ I don't like slow software. I don't like software that breaks. Most of what I bu
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/HammadNawaz519">
+<a href="https://hammadnawaz.vercel.app">
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Chat-Animations-Engine-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-Chat-Animations-Engine-light.svg">
-  <img src="assets/card-Chat-Animations-Engine-dark.svg" width="400" alt="Chat Animations Engine">
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-DeepGrid-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-DeepGrid-light.svg">
+  <img src="assets/card-DeepGrid-dark.svg" width="400" alt="Portfolio — hammadnawaz.vercel.app">
 </picture>
 </a>
 
