@@ -113,11 +113,11 @@ I don't like slow software. I don't like software that breaks. Most of what I bu
 <tr>
 <td width="50%" align="center">
 
-<a href="https://myconnectapp.vercel.app">
+<a href="https://hammadnawaz.vercel.app">
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Connect-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-Connect-light.svg">
-  <img src="assets/card-Connect-dark.svg" width="400" alt="Connect">
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-DeepGrid-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-DeepGrid-light.svg">
+  <img src="assets/card-DeepGrid-dark.svg" width="400" alt="Portfolio — hammadnawaz.vercel.app">
 </picture>
 </a>
 
@@ -137,6 +137,17 @@ I don't like slow software. I don't like software that breaks. Most of what I bu
 <tr>
 <td width="50%" align="center">
 
+<a href="https://myconnectapp.vercel.app">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Connect-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-Connect-light.svg">
+  <img src="assets/card-Connect-dark.svg" width="400" alt="Connect">
+</picture>
+</a>
+
+</td>
+<td width="50%" align="center">
+
 <a href="https://github.com/HammadNawaz519">
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/card-HammadOS-dark.svg">
@@ -146,19 +157,9 @@ I don't like slow software. I don't like software that breaks. Most of what I bu
 </a>
 
 </td>
-<td width="50%" align="center">
-
-<a href="https://hammadnawaz.vercel.app">
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="assets/card-DeepGrid-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-DeepGrid-light.svg">
-  <img src="assets/card-DeepGrid-dark.svg" width="400" alt="Portfolio — hammadnawaz.vercel.app">
-</picture>
-</a>
-
-</td>
 </tr>
 </table>
+
 
 </div>
 
