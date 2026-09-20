@@ -20,7 +20,6 @@
 <a href="https://hammadnawaz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-hammadnawaz.vercel.app-aa9bef?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/hammadnawaz519"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 <a href="mailto:hammadnawaz519@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;&nbsp;
-<a href="https://myconnectapp.vercel.app"><img src="https://img.shields.io/badge/Connect-Live_App-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Connect App"></a>&nbsp;&nbsp;
 <a href="https://github.com/HammadNawaz519"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 <br><br>
