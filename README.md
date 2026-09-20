@@ -44,16 +44,15 @@
 </td>
 <td width="64%" valign="top">
 
-## This is me :)
+## This is me
 
-Hi, I'm **Hammad Nawaz**, a Full-Stack Software Engineer and Systems Developer broadcasting from Pakistan 🇵🇰.
+I'm **Hammad Nawaz**, a full-stack software engineer from Pakistan. I build web platforms, real-time systems, and low-level software. Most of what I ship is fast, minimal, and actually works under pressure.
 
-I specialize in engineering high-throughput distributed web platforms, real-time multimedia architectures, and low-level systems. I care deeply about snappy user experiences, zero-throw resilience, and clean, modular code.
+- **[Connect](https://myconnectapp.vercel.app)** — real-time communication platform with WebRTC video/audio calling, Socket.IO messaging, multi-account support, voice notes with speech-to-text, and an Android APK release.
+- **[SHOPY Atelier](https://buyatshopy.vercel.app)** — a luxury fashion e-commerce store built with Next.js 14 App Router, Supabase PostgreSQL, Upstash Redis mutex locking (`SET NX EX`), and Google Sheets API v4 sync for live inventory management.
+- **[HammadOS](https://github.com/HammadNawaz519)** — a custom x86 operating system kernel written in C and Assembly. Memory management, interrupt handling, QEMU-tested.
 
-- 💬 **Creator of [Connect](https://myconnectapp.vercel.app)**: Next-Gen real-time communication platform engineered with WebRTC 1-on-1 audio/video calling, Socket.IO messaging, Meta-style multi-account vault, voice notes with AI speech-to-text, and native Android APK distribution.
-- 🏛️ **Architect of [SHOPY Atelier](https://github.com/HammadNawaz519)**: Ultra-luxury digital flagship e-commerce platform built with Next.js 14 App Router, Supabase PostgreSQL, Upstash Redis atomic mutex locks (`SET NX EX`), and bidirectional Google Sheets API v4 synchronization.
-- ⚙️ **Systems Developer ([HammadOS](https://github.com/HammadNawaz519))**: Developing custom x86 kernel routines and memory management in C and Assembly with virtualization tested under QEMU.
-- ⚡ **Engineering Principle**: Fast, reliable, and visually arresting. If software isn't fast and resilient, nothing else matters.
+I don't like slow software. I don't like software that breaks. Most of what I build is an attempt to fix both.
 
 </td>
 </tr>
@@ -123,7 +122,7 @@ I specialize in engineering high-throughput distributed web platforms, real-time
 </td>
 <td width="50%" align="center">
 
-<a href="https://github.com/HammadNawaz519">
+<a href="https://buyatshopy.vercel.app">
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="assets/card-Shopy-Atelier-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/card-Shopy-Atelier-light.svg">
