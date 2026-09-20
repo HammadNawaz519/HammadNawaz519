@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    { "label": "Full-Stack (Next.js)",     "value": 95 },
+    { "label": "TypeScript / JS",          "value": 94 },
+    { "label": "Real-Time / WebSockets",   "value": 90 },
+    { "label": "PostgreSQL & Redis",       "value": 88 },
+    { "label": "Systems & OS (C / Asm)",   "value": 85 },
+    { "label": "PWA & Native APK",         "value": 86 },
+    { "label": "Cloud & Serverless",       "value": 84 }
+  ]
+}

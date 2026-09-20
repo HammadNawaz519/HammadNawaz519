@@ -1,0 +1,37 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run; the description here overrides the repo's GitHub description.",
+  "projects": [
+    {
+      "repo": "Connect",
+      "name": "Connect",
+      "description": "Next-Gen real-time social messaging & media platform. WebRTC audio/video calling, Socket.IO, Meta-style Accounts Center, AI voice-to-text, and native Android APK via Capacitor.",
+      "language": "TypeScript",
+      "stars": 12,
+      "forks": 3
+    },
+    {
+      "repo": "Shopy-Atelier",
+      "name": "Shopy-Atelier",
+      "description": "Ultra-luxury fashion flagship e-commerce platform. Built with Next.js 14 App Router, PostgreSQL, Upstash Redis atomic mutex locks, and bidirectional Google Sheets sync.",
+      "language": "TypeScript",
+      "stars": 8,
+      "forks": 2
+    },
+    {
+      "repo": "HammadOS",
+      "name": "HammadOS",
+      "description": "Custom x86 Operating System kernel and memory management architecture in C and Assembly, with safety guidelines and virtualization in QEMU.",
+      "language": "C",
+      "stars": 15,
+      "forks": 4
+    },
+    {
+      "repo": "Chat-Animations-Engine",
+      "name": "Chat-Animations-Engine",
+      "description": "High-framerate physics-based message choreography and fluid micro-interactions for modern real-time communication platforms.",
+      "language": "JavaScript",
+      "stars": 6,
+      "forks": 1
+    }
+  ]
+}
